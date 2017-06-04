@@ -19,13 +19,13 @@ li {
     background: #ffffff;
     height: 80px;
 }
-.navbar-header .header_left {
+.navbar-header .header_left{
     font-size: 25px;
     font-weight: bold;
     height: 50px;
     margin-top: 15px;
     text-align: center;
-    margin-left: 50px !important;
+    margin-left: 55px !important;
 }
 .header_right li{
     width: 100%;
